@@ -1,0 +1,11 @@
+name: Jack
+age: 25
+city: New Jersey
+is_student: true
+grade:
+  - subject: Math
+    grade: A
+  - subject: Science
+    grade: A
+  - subject: Social
+    grade: A+
