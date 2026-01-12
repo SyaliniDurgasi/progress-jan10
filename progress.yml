@@ -4,8 +4,8 @@ city: New Jersey
 is_student: true
 grade:
   - subject: Math
-    grade: T
+    grade: U
   - subject: Science
-    grade: T
+    grade: U
   - subject: Social
-    grade: T+
+    grade: U+
